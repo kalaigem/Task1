@@ -47,5 +47,8 @@ public class SnapdealTask {
 
 	
 }
+	private void method1() {
+		System.out.println("hi this test1");
+	}
 
 }
